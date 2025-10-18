@@ -1,0 +1,6 @@
+- ssh and 20deg isotherm depth anomaly hovmoller (Kelvin wave)
+- 2D wavenumber-freq plot in the vertical (for velocity) --- internal waves
+- add Rossby and rossby-gravity dispersion relations to the wavenumber frequency plots (sst and ssh)
+- power spectra before and after assimilation of the windstress (and of the controls)
+- EOFs of sst and ssh anomalies (in lat-lon)
+- check which of these phenomena might be responsible for the pusles in october 2012
